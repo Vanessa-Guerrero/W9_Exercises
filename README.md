@@ -1,3 +1,3 @@
-# W11_Exercises
+# W9_Exercises
 
 Exercises completed from the Data Anaylyst Academy Week 9 workbook using Power BI 
